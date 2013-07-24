@@ -16,6 +16,6 @@ public interface URL {
 
     void setChangeFrequency(@Nullable ChangeFrequency frequency);
 
-    void setPriority(@Nullable Float priority);
+    void setPriority(@Nullable Double priority);
 
 }
